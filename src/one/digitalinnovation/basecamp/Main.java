@@ -39,6 +39,6 @@ public class Main {
         System.out.println(st1);
         System.out.println(bo1);
         System.out.println(bo2);
-        
+
     }
 }
